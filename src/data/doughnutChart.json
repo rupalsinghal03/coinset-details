@@ -1,0 +1,33 @@
+[
+    {
+        "label": "May 2022",
+        "renenue": 100,
+        "cost": 20000,
+        "color":"#A7FFF9"
+
+    },
+    {
+        "label": "Jun 2022",
+        "renenue": 2000,
+        "cost": 22250,
+        "color":"#141414"
+    },
+    {
+        "label": "Jul 2022",
+        "renenue": 400,
+        "cost": 30000,
+        "color":"#A1D6C7"
+    },
+    {
+        "label": "Aug 2022",
+        "renenue": 422,
+        "cost": 8000,
+        "color":"#FFE69E"
+    },
+    {
+        "label": "Aug 2022",
+        "renenue": 422,
+        "cost": 8000,
+        "color":"#FFCB8D"
+    }
+]

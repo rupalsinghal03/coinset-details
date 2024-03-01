@@ -1,0 +1,47 @@
+[
+    {
+        "label": "May 2022",
+        "renenue": 100,
+        "cost": 50000
+    },
+    {
+        "label": "Jun 2022",
+        "renenue": 2000,
+        "cost": 22250
+    },
+    {
+        "label": "Jul 2022",
+        "renenue": 400,
+        "cost": 30000
+    },
+    {
+        "label": "Aug 2022",
+        "renenue": 422,
+        "cost": 8000
+    },
+    {
+        "label": "Sep 2022",
+        "renenue": 444,
+        "cost": 10000
+    },
+    {
+        "label": "Oct 2022",
+        "renenue": 654,
+        "cost": 40000
+    },
+    {
+        "label": "Aug 2022",
+        "renenue": 422,
+        "cost": 30000
+    },
+    {
+        "label": "Sep 2022",
+        "renenue": 444,
+        "cost": 10000
+    },
+    {
+        "label": "Oct 2022",
+        "renenue": 654,
+        "cost": 60
+    }
+]
